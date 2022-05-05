@@ -1,6 +1,6 @@
 export default {
-  github: 'https://github.com/shuding/nextra',
-  docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
+  github: 'https://github.com/MeetDAO/meetdao.app',
+  docsRepositoryBase: 'https://github.com/MeetDAO/meetdao.app/blob/master',
   titleSuffix: ' – Nextra',
   logo: (
     <>
